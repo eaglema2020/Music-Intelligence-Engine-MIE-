@@ -85,7 +85,7 @@ Music Intelligence/
 
 Current Version
 
-v0.1.0-alpha
+v0.1 - alpha
 
 Implemented
 Music Library Scanner
