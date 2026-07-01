@@ -85,7 +85,6 @@ Music Intelligence/
 Current Version
 
 v0.1
-
 Implemented
 Music Library Scanner
 Music Library JSON / M3U Generator
