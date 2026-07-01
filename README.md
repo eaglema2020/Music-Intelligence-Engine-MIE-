@@ -81,17 +81,15 @@ Music Intelligence/
     └── metadata_debug_report.csv
 原始音乐文件保持不变。
 
-🛠 Current Status | 当前状态
-
+🛠 Current Status
 Current Version
 
-v0.1 - alpha
-
+v0.1
 Implemented
 Music Library Scanner
 Music Library JSON / M3U Generator
 Filename Standardization
-
+------
 音乐库扫描仪
 音乐库JSON/M3U生成器
 文件名标准化
